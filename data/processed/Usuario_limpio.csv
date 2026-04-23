@@ -1,0 +1,23 @@
+id_usuario,nombre,telefono,correo,documento
+1,Juan Perez,3001234567,juan@gmail.com,123456
+2,Maria Lopez,0,maria@gmail.com,234567
+4,Ana Torres,3012223344,ana@gmail.com,456789
+6,Pedro Gomez,0,pedro@gmail.com,678901
+7,Laura Diaz,3201112233,laura@gmail.com,789012
+9,Sofia Mejia,3112223333,sofia@gmail.com,901234
+10,Juan Perez,3001234567,juan@gmail.com,123456
+11,Juan Perez,3001234567,juan@gmail.com,123456
+12,Maria Lopez,0,mlopez@gmail.com,234567
+13,Carlos Ruiz,3109876543,carlos@,345678
+15,Luis Martinez,3005556677,luis@gmail,567890
+17,Laura Diaz,3201112233,laura@gmail.com,789012
+18,Andres Castro,0,andres@gmail.com,890123
+19,Sofia Mejia,3112223333,sofia@gmail.com,901234
+21,Juan Perez,3001234567,juan@gmail.com,123456
+22,Camilo Torres,3100000000,camilo@gmail.com,111222
+23,Valentina Ruiz,3209998888,valentina@gmail.com,222333
+25,Andrea Gomez,3017776666,andrea@gmail.com,444555
+27,Daniela Castro,3002221111,daniela@gmail.com,555666
+28,Juan Perez,3001234567,juan@gmail.com,123456
+29,Felipe Diaz,not_a_number,felipe@gmail.com,666777
+30,Luisa Fernanda,3003334444,luisa@gmail.com,777888
