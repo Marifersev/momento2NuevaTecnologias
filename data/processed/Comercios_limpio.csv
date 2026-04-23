@@ -1,0 +1,22 @@
+id_comercio,nit,nombre,tipo_comercio
+1,900123,Tienda Don Jose,tienda
+2,900456,Exito,supermercado
+3,900789,Starbucks,cafe
+4,900321,Mcdonalds,restaurante
+7,900987,D1,tienda
+8,900741,Oxxo,tienda
+9,900852,Justo Y Bueno,supermercado
+10,900963,Carulla,supermercado
+11,900741,Oxxo,tienda
+12,900159,Tienda La Esquina,tienda
+13,900753,Starbucks,cafe
+15,900951,Ara,supermercado
+16,900357,Mc Donalds,restaurante
+17,900258,Burger King,restaurante
+20,900456,Exito,supermercado
+21,900888,Tienda Barrio,tienda
+22,900999,Cafe Juan,cafe
+25,901111,Olimpica,supermercado
+26,901222,Metro,transporte
+27,901333,Taxi Libre,transporte
+28,901444,Uber,transporte

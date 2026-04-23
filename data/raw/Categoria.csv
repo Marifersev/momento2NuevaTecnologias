@@ -6,3 +6,23 @@ id_categoria,nombre,fecha_creacion,responsable,justificacion
 5,comida,2023-01-01,admin,
 6,ahorro,,admin,reserva dinero
 7,Salud,2023-01-05,ADMIN,gastos medicos
+8,comida,2023-01-01,admin,gastos diarios
+9,transporte,2023-01-02,ADMIN,movilidad
+10,ocio,2023-01-03,admin,entretenimiento
+11,servicios,2023-01-04,admin,pagos
+12,ahorro,2023-01-05,admin,reserva
+13,salud,2023-01-06,admin,gastos medicos
+14,educacion,2023-01-07,admin,estudio
+15, ,2023-01-08,admin,otros
+16,comida,,admin,gastos
+17,transporte,2023-01-02,,movilidad
+18,ocio,2023-01-03,admin,
+19,servicios,2023-01-04,admin,pagos hogar
+20,ahorro,2023-01-05,admin,reserva dinero
+21,salud,2023-01-06,ADMIN,gastos medicos
+22,educacion,2023-01-07,admin,estudios
+23,comida,2023-01-01,admin,gastos diarios
+24,transporte,2023-01-02,admin,movilidad
+25,ocio,2023-01-03,admin,entretenimiento
+26,servicios,2023-01-04,admin,pagos hogar
+27,ahorro,,admin,
