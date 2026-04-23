@@ -1,0 +1,15 @@
+id_pago,nombre,franquicia,estado
+1,tarjeta credito,visa,activo
+2,tarjeta debito,mastercard,activo
+4,nequi,nequi,inactivo
+5,daviplata,davivienda,activo
+9,tarjeta credito,visa,activo
+10,tarjeta debito,mastercard,inactivo
+12,nequi,nequi,activo
+15,tarjeta credito,visa,activo
+17,transferencia,bancolombia,activo
+18,pse,pse,activo
+21,crypto,bitcoin,activo
+22,tarjeta credito,mastercard,activo
+25,daviplata,davivienda,activo
+26,tarjeta credito,visa,activo
