@@ -1,0 +1,9 @@
+id_comercio,nit,nombre,tipo_comercio
+1,900123,tienda don jose,tienda
+2,900456,EXITO,supermercado
+3,900789,starbucks,cafe
+4,900321,McDonalds,restaurante
+5,900654, ,supermercado
+6,,ara,supermercado
+7,900987,D1,tienda
+8,900741,oxxo,tienda

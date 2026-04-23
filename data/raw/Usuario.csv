@@ -1,0 +1,11 @@
+id_usuario,nombre,telefono,correo,documento
+1,Juan Perez,3001234567,juan@gmail.com,123456
+2, maria lopez ,,maria@gmail.com,234567
+3,CARLOS RUIZ,3109876543,,345678
+4,Ana Torres,3012223344,ana@gmail.com,456789
+5,,3005556677,luis@gmail.com,567890
+6,Pedro Gomez, ,pedro@gmail.com,678901
+7,Laura Diaz,3201112233,LAURA@GMAIL.COM,789012
+8,Andres Castro,3009998888,andres@gmail.com,
+9,Sofia Mejia,3112223333,sofia@gmail.com,901234
+10,Juan Perez,3001234567,juan@gmail.com,123456

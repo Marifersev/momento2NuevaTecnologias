@@ -1,0 +1,9 @@
+id_pago,nombre,franquicia,estado
+1,tarjeta credito,visa,activo
+2, Tarjeta Debito ,mastercard,activo
+3,efectivo,,activo
+4,nequi,nequi,inactivo
+5,daviplata ,davivienda,activo
+6,,visa,activo
+7,tarjeta credito,VISA,
+8,efectivo, ,activo
