@@ -9,3 +9,23 @@ id_usuario,nombre,telefono,correo,documento
 8,Andres Castro,3009998888,andres@gmail.com,
 9,Sofia Mejia,3112223333,sofia@gmail.com,901234
 10,Juan Perez,3001234567,juan@gmail.com,123456
+11,juan perez,3001234567,JUAN@GMAIL.COM,123456
+12, Maria Lopez, ,mlopez@gmail.com,234567
+13,carlos ruiz,3109876543,carlos@,345678
+14,ana torres,3012223344, ,456789
+15,luis martinez,3005556677,luis@gmail,567890
+16,Pedro Gomez,3001112233,pedro@gmail.com,
+17,LAURA DIAZ,3201112233,laura@gmail.com,789012
+18,andres castro, ,andres@gmail.com,890123
+19,Sofia Mejia,3112223333,sofia@gmail.com,901234
+20, ,3000000000,sin_nombre@gmail.com,999999
+21,Juan Perez,3001234567,juan@gmail.com,123456
+22,Camilo Torres,3100000000,camilo@gmail.com,111222
+23,Valentina Ruiz,3209998888,valentina@gmail.com,222333
+24,sebastian lopez,3008887777,,333444
+25,Andrea Gomez,3017776666,andrea@gmail.com,444555
+26, , , , 
+27,Daniela Castro,3002221111,daniela@gmail.com,555666
+28,Juan Perez ,3001234567,juan@gmail.com,123456
+29,felipe diaz,not_a_number,felipe@gmail.com,666777
+30,Luisa fernanda,3003334444,luisa@gmail.com,777888
